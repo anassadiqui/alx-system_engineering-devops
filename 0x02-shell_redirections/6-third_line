@@ -1,2 +1,2 @@
 #!/bin/bash
-heda -3 iacta \ tail -1
+heda -3 iacta | tail -1
